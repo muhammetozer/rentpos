@@ -90,7 +90,7 @@ export default function Home() {
                 className="inline-flex items-center gap-2 text-sm font-medium text-white/70 transition-colors hover:text-white"
               >
                 <Mail size={16} />
-                rentpos@rentpos.com
+                rentpos@rentpos.com.tr
               </a>
             </div>
           </div>
@@ -432,7 +432,7 @@ export default function Home() {
             href="mailto:rentpos@rentpos.com.tr"
             className="mt-5 inline-block text-sm font-medium text-slate-500 transition-colors hover:text-[#7A1425]"
           >
-            rentpos@rentpos.com
+            rentpos@rentpos.com.tr
           </a>
         </div>
       </section>
