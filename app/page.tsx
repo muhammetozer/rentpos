@@ -86,7 +86,7 @@ export default function Home() {
               </a>
 
               <a
-                href="mailto:rentpos@rentpos.com"
+                href="mailto:rentpos@rentpos.com.tr"
                 className="inline-flex items-center gap-2 text-sm font-medium text-white/70 transition-colors hover:text-white"
               >
                 <Mail size={16} />
@@ -224,7 +224,7 @@ export default function Home() {
               </a>
 
               <a
-                href="mailto:rentpos@rentpos.com"
+                href="mailto:rentpos@rentpos.com.tr"
                 className="mt-4 flex items-center gap-2 text-sm font-semibold text-[#7A1425] transition-colors hover:text-[#5E0F1D]"
               >
                 <Mail size={16} />
@@ -381,7 +381,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="mailto:rentpos@rentpos.com"
+                  href="mailto:rentpos@rentpos.com.tr"
                   className="inline-flex items-center justify-center gap-2 rounded-lg border border-white/30 bg-white/10 px-6 py-3.5 text-sm font-semibold text-white transition-all hover:bg-white/20"
                 >
                   <Mail size={17} />
@@ -420,7 +420,7 @@ export default function Home() {
             </a>
 
             <a
-              href="mailto:rentpos@rentpos.com"
+              href="mailto:rentpos@rentpos.com.tr"
               className="inline-flex items-center justify-center gap-2 rounded-lg border border-[#7A1425]/20 bg-white px-7 py-3.5 text-sm font-semibold text-[#7A1425] transition-all hover:border-[#7A1425] hover:shadow-lg"
             >
               <Mail size={17} />
@@ -429,7 +429,7 @@ export default function Home() {
           </div>
 
           <a
-            href="mailto:rentpos@rentpos.com"
+            href="mailto:rentpos@rentpos.com.tr"
             className="mt-5 inline-block text-sm font-medium text-slate-500 transition-colors hover:text-[#7A1425]"
           >
             rentpos@rentpos.com
